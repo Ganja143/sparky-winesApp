@@ -1,0 +1,52 @@
+.Socontainer {  
+  padding: 23%;  
+  background-color: rgb(214, 19, 221);  
+  margin:0px 
+}  
+  
+.input {  
+  width: 40%;  
+  padding: 25px;  
+  margin: 5px 0 12px 0;  
+  display: flex;  
+  flex-wrap: wrap;
+  border: none;  
+  background: #6e2929;  
+}  
+textarea {  
+  width: 100%;  
+  padding: 15px;  
+  margin: 5px 0 22px 0;  
+  display: inline-block;  
+  border: none;  
+  background: #f1f1f1;  
+}  
+.input[type=text]:focus, input[type=password]:focus {  
+  background-color: orange;  
+  outline: none;  
+}  
+ div {  
+            padding: 10px 0;  
+         }  
+.hr {  
+  border: 1px solid #f1f1f1;  
+  margin-bottom: 25px;  
+}  
+.registerbtn {  
+  background-color: #080606fa;  
+  color: white;  
+  padding: 16px 20px;  
+  margin: 8px 0;  
+  border: none;  
+  cursor: pointer;  
+  width: 25%;  
+  opacity: 0.9;  
+}  
+.registerbtn:hover {  
+  opacity: 1;  
+  color:rgb(214, 197, 197); 
+}
+.shemfane{
+  border: #f1f1f1;
+  fill:beige;
+}  

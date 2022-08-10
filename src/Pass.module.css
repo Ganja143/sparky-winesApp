@@ -1,0 +1,292 @@
+@import url("https://fonts.googleapis.com/css?family=Sen:400,700,800|Neuton:200,700,400");
+body{
+  background: rgba(241, 21, 180, 0.35);
+  
+}
+.signuppage {
+  flex-direction: row;
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: auto;
+  overflow: hidden;
+  background: url("./images/Bergin-bottle-collage-sm\ 1.jpg");
+ background-size: cover;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.overlap {
+  height: 1036px;
+  margin-left: -4px;
+  position: relative;
+  width: 1445px;
+}
+
+.vector1 {
+  height: 11px;
+  left: 785px;
+  position: absolute;
+  top: 635px;
+  width: 9px;
+}
+
+.signin {
+    color: 
+    #bf92e2;
+      font-family:'neuton';
+      font-size: 70PX;
+      font-weight: 700;
+      left: 1100px;
+      letter-spacing: 0;
+      position: absolute;
+      text-align: center;
+      top: 175px;
+}
+
+.rect25 {
+    background-color: 
+    #f9fbf1;
+      height: 744px;
+      left: 900px;
+      position: absolute;
+      top: 117px;
+      width: 728px;
+}
+
+.signup {
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+    color:#FFFFFF;
+    position: absolute;
+    text-align: center;
+    top: 724px;
+    width: 130px;
+}
+
+
+.rect24 {
+    background-color: 
+    #e3e7dd80;
+      height: 744px;
+      left: 190px;
+      position: absolute;
+      top: 117px;
+      width: 717px;
+      background-image: url("./images/bergin-bottle-collage-sm\ 1.png");
+}
+
+.kelsey2 {
+    height: 169px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 867px;
+    width: 1440px;
+    background: url("./images/kelsey-knight-udj2td3wksy-unsplash-2\.png");
+  filter: blur(15px);
+}
+
+.creating {
+    position: absolute;
+    width: 724px;
+    height: 110px;
+    left: 190px;
+    top: 550px;
+    font-family: 'Neuton';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 46px;
+    text-align: center;
+    color: #FFFFFF;
+    mix-blend-mode: hard-light;
+    opacity: 0.8;
+}
+
+.rect26 {
+  background-color: 
+#d313cb4c;
+  border: 1px solid 
+#00000033;
+  filter: blur(45px);
+  height: 165px;
+  left: 6px;
+  position: absolute;
+  top: 860px;
+  width: 1439px;
+}
+
+
+.bergin1 {
+  height: 744px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 717px;
+}
+
+.rect33 {
+    cursor: pointer;
+    height: 64px;
+    left: 100px;
+    position: absolute;
+    top: 250px;
+    width: 291px;
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: center;
+    background: #966596;
+  border-radius: 85px;
+  color: #FFF3F3;
+  border-color: #BD8FDD;
+}
+
+.sparky {
+  
+    position: absolute;
+    width: 441px;
+    height: 242px;
+    left: 330px;
+    top: 221px;
+    font-family: 'Neuton';
+    font-style: normal;
+    font-weight: 275;
+    font-size: 96px;
+    line-height: 121px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+
+.username {
+  color: 
+#a672c5;
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  left: 854px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 532px;
+}
+
+.bergin3 {
+    height: 1024px;
+    left: 4px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 3020px;
+    background: url("./images/bergin-bottle-collage-sm-3\.png");
+  filter: blur(30px);
+
+}
+
+.password {
+  color: 
+#b782e0;
+  font-family: var(--font-family-sen);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  left: 852px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 583px;
+}
+.fname{
+    position: absolute;
+    width: 181px;
+    height: 31px;
+    left: 1000px;
+    top: 350px;
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 31px;
+    text-align: center;
+    padding: 12px;
+    margin: 10px;
+    
+    color: #BD8FDD;
+
+}
+
+.sawi{
+    position: absolute;
+    width: 310px;
+    height: 23px;
+    left: 250px;
+    top: 93px;
+    background: #FAFCF1;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    }
+.saii{
+    position: absolute;
+    width: 310px;
+    height: 23px;
+    left: 250px;
+    top: 135px;
+    background: #FAFCF1;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    }
+    .FGI{
+position: absolute;
+width: 181px;
+height: 31px;
+left: 0px;
+top: 120px;
+font-family: 'Sen';
+font-style: normal;
+font-weight: 400;
+font-size: 20.6px;
+line-height: 31px;
+text-align: center;
+padding: 12px;
+margin: 10px;
+
+color: #BD8FDD;
+    }
+
+  .FFI{
+      position: absolute;
+      width: 181px;
+      height: 31px;
+      left: 5px;
+      top: 85px;
+      font-family: 'Sen';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 25px;
+      line-height: 31px;
+      text-align: center;
+      padding: 12px;
+      margin: 10px;
+
+      color: #BD8FDD;
+  }
+  
+
+
+
+ 

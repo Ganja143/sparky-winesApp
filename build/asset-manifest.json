@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df1264c3.css",
+    "main.js": "/static/js/main.900b8139.js",
+    "static/js/787.678f2bd9.chunk.js": "/static/js/787.678f2bd9.chunk.js",
+    "static/media/chelsea-pridham-pj1jhhrqd3c-unsplash-1.jpg": "/static/media/chelsea-pridham-pj1jhhrqd3c-unsplash-1.df26317da9e26a524ebe.jpg",
+    "static/media/pic1.jpg": "/static/media/pic1.92797796d5df52377f70.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.df1264c3.css.map": "/static/css/main.df1264c3.css.map",
+    "main.900b8139.js.map": "/static/js/main.900b8139.js.map",
+    "787.678f2bd9.chunk.js.map": "/static/js/787.678f2bd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df1264c3.css",
+    "static/js/main.900b8139.js"
+  ]
+}
